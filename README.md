@@ -27,5 +27,6 @@ Put this at the top of the custom CSS tab:
 
 -   [GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) for the original code
 -   [DTM-16](https://github.com/XYZenix/DTM-16) for the switches, old radio bars and some of the profile code
+-   [Fluent Icons](https://github.com/stickfab/pc-fluenticons) for the icons
 
 ##### btw dont try to contribute, the codes shit lmao
