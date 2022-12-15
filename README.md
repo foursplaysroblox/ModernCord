@@ -2,9 +2,9 @@
 
 ---
 
-# What is OldCord?
+# What is ModermCord?
 
-OldCord is a [BetterDiscord](https://betterdiscord.app " ") theme that reverts most of the 2021 rebrand, based on [GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) 
+ModernCord is a [BetterDiscord](https://betterdiscord.app " ") theme that reverts most of the 2021 rebrand, based on [GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) 
 
 ###### some stuff cant be changed back because of stupid discord changes
 
