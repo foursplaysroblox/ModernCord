@@ -2,9 +2,9 @@
 
 ---
 
-# What is ModermCord?
+# What is ModerNCord?
 
-ModernCord is a [BetterDiscord](https://betterdiscord.app " ") theme that reverts most of the 2021 rebrand, based on [GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) 
+ModernCord is a [BetterDiscord](https://betterdiscord.app " ") theme that reverts most of the 2021 rebrand, based on [GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) This is forked from [OldCord](https://github.com/moyaiu/OldCord)
 
 ###### some stuff cant be changed back because of stupid discord changes
 
