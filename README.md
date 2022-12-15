@@ -2,7 +2,7 @@
 
 ---
 
-# What is ModerNCord?
+# What is ModernCord?
 
 ModernCord is a [BetterDiscord](https://betterdiscord.app " ") theme that reverts most of the 2021 rebrand, based on [GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) This is forked from [OldCord](https://github.com/moyaiu/OldCord)
 
@@ -28,5 +28,6 @@ Put this at the top of the custom CSS tab:
 -   [GT-RevertRebrand](https://github.com/Goose-Nest/GT-RevertRebrand) for the original code
 -   [DTM-16](https://github.com/XYZenix/DTM-16) for the switches, old radio bars and some of the profile code
 -   [Fluent Icons](https://github.com/stickfab/pc-fluenticons) for the icons
+-   [OldCord](https://github.com/moyaiu/OldCord) The whole code and resperatory
 
 ##### btw dont try to contribute, the codes shit lmao
