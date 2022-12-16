@@ -15,7 +15,7 @@ Download [OldCord.theme.css](https://github.com/moyaiu/OldCord/blob/main/OldCord
 
 ### Alternative
 
-Put this at the top of the custom CSS tab:
+Put this at the top of the custom CSS tab but I recommand downloading the theme:
 
 ```css
 @import url("https://moyaiu.github.io/OldCord/src/main.css");
